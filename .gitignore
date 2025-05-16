@@ -1,0 +1,18 @@
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Operating System files
+desktop.ini
+Thumbs.db # Another common Windows hidden file
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
