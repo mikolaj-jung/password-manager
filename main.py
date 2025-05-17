@@ -1,8 +1,6 @@
 import json
 import math
 import random
-import tkinter
-from operator import length_hint
 from tkinter import *
 from tkinter import messagebox
 import pyperclip
